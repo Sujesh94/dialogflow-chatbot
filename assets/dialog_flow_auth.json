@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "oceanixbot-hlde",
+  "private_key_id": "cb87b3057f467ebc94c7ffc2e2b830c427b2da20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCruFQdtYmmiNWw\n9XrZriZhBISYTU3kImvrsV7KIQsElCzH/EVO0XEkUFyTpHmoJLcJ32E3hprcvtql\nPQ77XvNmJjCHsHs8BzqjhMFY34Jv7DImWLnBWroHDsFAWdbO1eXfGBV2cEUHFDNR\nioYNufCjBEDm4lOJmiAIH9RJWXuPRsCBc47zsldOg/dC9KDwndNH8T3FsWOrsvrM\nP2NsEUoB2PilMXoJ3gqGORXb5/0rkX+0W4AmscDe2OsqT7uGNpC4ubQ/U1SrUsXS\nG+2AhcAH7LeRrDvg47C29YVQw+mCBatt3HsaESJ6FfF2at0SwXH6JxZCcU86XiXq\nLScR+YINAgMBAAECggEAI6ixNQMp/L5tC6SKWJJIr3xh8YOaEW4RdZ39VmGSuWZw\nvy20kce95EHY26L7zW4kYWU0+bQWzBDI9CfQCOSgjD2Rddfw21gP9f1fLi6p1kaY\n6mwh1NRbjZQjjtKpIAX8iH2mlVP+jZgFCSGIMWkDnsKHHLryiIBMNwuvCHVPyoJZ\nlGHwbbZNnORNvcH0TYg1yZDqxHyhKpsXgk8NSl0YtrPL6wuC5UCXvbR4BgIunyGJ\nAKXKmYCi0KQUfLMJ5JyWCtvzqSjb+jyUhS4wGCQFgJIVmO2gAF6mqxasB86kvrl/\nQijiI8OJnZijKeAjgdAcJXGcbSr4aHdnngJ9jY1kwQKBgQDw0xex1ILiJNn0yT1H\npWLrxJX1iNowyS8IKf7ZC4fsodEzysqnR0Lv79CL9fcGiGUvxiv+xyWdPD28SgQ6\nhRLmitQ/gYDWQpEkF886qwPTsvMf31B7V3fTOmP7p/iTgLYrW03Jo+5FtI93+rKs\nUx1Nb62kljFb7qVU5tN5vtHjQQKBgQC2inaA2P0fmTQ0dr2M7fnC72WaXfywvQLo\nn6ezkco3zyUpxWCVfRiBeNHf3k9EwwuA+KS9FktCe/nBodtfE5MAqtjDWqpwPi/E\nuseyYY5Tf2fZOUKW4DYSCg5z8CPfVdsFE1cPPVfeXP+pmwifZO3NOHDNjaf1TOHf\nv4pPn3/HzQKBgQDgGe/AwhsRym0wh1wJIfRNpeBOXo18PJsRo9LNsxdHssV0xs+S\nnpPBp46Pz9GSOLbAoE8shbGRAhAI+W+57T/LXYFpn19/Au8BgU6ML7wd8jaggDTq\nsliFLZ8A/iwpRus+qXZXn78JCp8/bQF7rtRjzPrvX/yKqiccPLiqYFH8gQKBgQCp\nLrnYf8RStgbpnSffZ2z2XDU6FmQuVnBMtDSVPMlEYovaJCJ5SqEc1qMGLyAe5ftS\nhKEC05fbPdZkvaP5gcXcd3xBy1VuhGR3nHmbfcmQ3+ObM/PgrFvQ6lss32QQCZ3e\nHWeyKzO2V1Fpm9QpDz1L2ETMbr89ng02+Gqzk2u1/QKBgAvSOjPCoeHqVqSuyUpR\n5lFxRvWWZPpksk0iVm28PqbuMNqqMot54LSA2ZpFreracTVuTFvArW2lv+VCF4Rr\n3ddQDRr4OrWft6V+dwzndVVjwLWWP64q13mQ2TjA4JFp7D4bZn3khLFpqG7qakXb\n1jwekyDGnkNHwBdRoRZVkmME\n-----END PRIVATE KEY-----\n",
+  "client_email": "oceanixbot@oceanixbot-hlde.iam.gserviceaccount.com",
+  "client_id": "106638033256866808149",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/oceanixbot%40oceanixbot-hlde.iam.gserviceaccount.com"
+}
